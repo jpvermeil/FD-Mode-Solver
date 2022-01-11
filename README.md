@@ -5,4 +5,6 @@ For further reference with respect to the numerical implementation please refer 
 
 I implemented this mode solver during my time as a PhD student to complement my finite difference based Beam Propagation Method (BPM) for the excitation of optical waveguide structures with a specific mode.
 
+For instructions on how to use the mode solver please refer to the two included examples for a single-mode step-index fiber and a graded-index multimode fiber.
+
 The code is likely not to be maintained or supported to any extent in the future.  
